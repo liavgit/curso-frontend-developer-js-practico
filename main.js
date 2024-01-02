@@ -72,6 +72,7 @@ productList.push({
     "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 });
 
+//maquetar html desde js para ver la lista de productos
 function renderProducts(arreglo) {
     /*recorrer el array y mostrar los productos en las cards en la pnatlla*/
     for (product of arreglo) {
